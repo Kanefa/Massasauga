@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Enemy Config -->
+
+<enemyList>
+    <enemy instance="bandit">
+        <image>Images\\Characters\\dg_humans32.gif</image>
+	      <rectIndex>0</rectIndex>
+        <rects x0="64" y0="32" w0="32" h0="32"
+               x1="128" y1="32" w1="32" h1="32"
+               x2="160" y2="64" w2="32" h2="32"/>
+               <!-- 0 = idle, 1 = attack, 2 = death -->
+    </enemy>
+</enemyList>

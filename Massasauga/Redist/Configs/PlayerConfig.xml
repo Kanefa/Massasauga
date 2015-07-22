@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Player Config -->
+
+<playerList>
+    <player instance="player1">
+        <image>Images\\Characters\\dg_humans32.gif</image>
+        <offset x="300" y="400"/>
+	      <rectIndex>0</rectIndex>
+        <rects x0="0" y0="0" w0="32" h0="32" 
+               x1="32" y1="0" w1="32" h1="32"
+               x2="64" y2="0" w2="32" h2="32"
+               x3="96" y3="0" w3="32" h3="32"
+               x4="128" y4="0" w4="32" h4="32"
+               x5="160" y5="0" w5="32" h5="32"/>
+               <!-- left: 0 = idle, 1 = attack, 2 = death 
+                    right: 3 = idle, 4 = attack, 5 = death -->
+    </player>
+</playerList>

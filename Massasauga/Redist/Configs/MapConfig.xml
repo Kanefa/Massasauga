@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Map Config -->
+
+<mapList>
+  <map instance="overWorld">
+    <image>Images\\Ground\\dg_grounds32.gif</image>
+    <rects x0="0" y0="32" w0="32" h0="32" passable0="true"
+           x1="32" y1="32" w1="32" h1="32" passable1="true"
+		       x2="64" y2="32" w2="32" h2="32" passable2="true"
+	         x3="96" y3="32" w3="32" h3="32" passable3="true"
+	         x4="128" y4="32" w4="32" h4="32" passable4="true"
+	         x5="160" y5="32" w5="32" h5="32" passable5="true"
+	         x6="192" y6="32" w6="32" h6="32" passable6="false"
+	         x7="224" y7="32" w7="32" h7="32" passable7="false"
+	         x8="256" y8="32" w8="32" h8="32" passable8="false"
+           x9="0" y9="192" w9="32" h9="32" passable9="true"
+           x10="32" y10="192" w10="32" h10="32" passable10="true"
+		       x11="64" y11="192" w11="32" h11="32" passable11="true"
+	         x12="192" y12="512" w12="32" h12="32" passable12="true"
+	         x13="224" y13="512" w13="32" h13="32" passable13="true"
+	         x14="256" y14="512" w14="32" h14="32" passable14="true"
+	         x15="256" y15="416" w15="32" h15="32" passable15="false"
+	         x16="0" y16="512" w16="32" h16="32" passable16="true"
+	         x17="224" y17="96" w17="32" h17="32" passable17="false"
+           x18="256" y18="576" w18="32" h18="32" passable18="true"/>
+           <!-- 00 Light green grass -->
+           <!-- 01 Medium green grass -->
+           <!-- 02 Dark green grass -->
+           <!-- 03 Light tan sand -->
+           <!-- 04 Medium tan sand -->
+           <!-- 05 Dark tan sand -->
+           <!-- 06 Light blue water -->
+           <!-- 07 Medium blue water -->
+           <!-- 08 Dark blue water -->
+           <!-- 09 Tree w/ light green grass -->
+           <!-- 10 Tree w/ medium green grass -->
+           <!-- 11 Tree w/ dark green grass -->
+           <!-- 12 Cactus w/ light tan sand -->
+           <!-- 13 Cactus w/ medium tan sand -->
+           <!-- 14 Cactus w/ dark tan sand -->
+           <!-- 15 Mountain w/ dark tan sand -->
+           <!-- 16 Dead tree w/ light tan sand -->
+           <!-- 17 Lava -->
+           <!-- 18 Boulder w/ dark green grass -->
+  </map>
+  <map instance="boulderRock">
+    <image>Images\\Ground\\dg_grounds32.gif</image>
+    <rects x0="0" y0="32" w0="32" h0="32" passable0="true"
+           x1="32" y1="32" w1="32" h1="32" passable1="true"
+		       x2="64" y2="32" w2="32" h2="32" passable2="true"
+	         x3="0" y3="0" w3="32" h3="32" passable3="true"
+	         x4="32" y4="0" w4="32" h4="32" passable4="true"
+	         x5="64" y5="0" w5="32" h5="32" passable5="false"
+	         x6="192" y6="32" w6="32" h6="32" passable6="false"
+	         x7="224" y7="32" w7="32" h7="32" passable7="false"
+	         x8="256" y8="32" w8="32" h8="32" passable8="false"
+           x9="0" y9="192" w9="32" h9="32" passable9="true"
+           x10="32" y10="192" w10="32" h10="32" passable10="true"
+		       x11="64" y11="192" w11="32" h11="32" passable11="true"
+	         x12="0" y12="352" w12="32" h12="32" passable12="true"
+	         x13="32" y13="352" w13="32" h13="32" passable13="true"
+	         x14="64" y14="352" w14="32" h14="32" passable14="true"
+	         x15="256" y15="160" w15="32" h15="32" passable15="true"
+	         x16="0" y16="512" w16="32" h16="32" passable16="true"
+	         x17="224" y17="96" w17="32" h17="32" passable17="true"
+           x18="256" y18="576" w18="32" h18="32" passable18="true"/> 
+           <!-- 00 Light green grass -->
+           <!-- 01 Medium green grass -->
+           <!-- 02 Dark green grass -->
+           <!-- 03 Light grey -->
+           <!-- 04 Medium grey -->
+           <!-- 05 Dark grey -->
+           <!-- 06 Light blue water -->
+           <!-- 07 Medium blue water -->
+           <!-- 08 Dark blue water -->
+           <!-- 09 Tree w/ light green grass -->
+           <!-- 10 Tree w/ medium green grass -->
+           <!-- 11 Tree w/ dark green grass -->
+           <!-- 12 Light cracks w/ grass -->
+           <!-- 13 Medium cracks w/ grass -->
+           <!-- 14 Dark cracks w/ grass -->
+           <!-- 15 Mountain w/ grey dirt -->    
+           <!-- 16 Dead tree w/ light tan sand -->
+           <!-- 17 Lava -->
+           <!-- 18 Boulder w/ dark green grass -->
+  </map>
+</mapList>
